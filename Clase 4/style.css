@@ -1,0 +1,17 @@
+/* etiqueta {propiedad: valor ; } */
+body{background-color: floralwhite;}
+h1{color: saddlebrown;
+font-size: 50px;
+}
+/*Llamar a la etiqueta*/
+.titular{
+    color: grey;
+}
+/*Llamar un id */
+#titular3{
+    color: burlywood;
+}
+#relativa {
+    position: relative;
+    left: 100px;
+}
