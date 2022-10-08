@@ -1,0 +1,14 @@
+#caja1 {
+    border: 1px solid red;
+    margin-top: 20px;
+    padding-top: 100px;
+}
+#caja2 {
+    margin:10px 20px 30px 40px;
+    /* top right bottom left */
+    border: 1px solid green;
+    border-width: 1px 10px 30px 50px;
+}
+#image-responsive{
+    width: 50vw;
+}
