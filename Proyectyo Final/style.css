@@ -1,3 +1,5 @@
+
+
 /*
  * Globals
  */
@@ -7,8 +9,8 @@
 .btn-secondary,
 .btn-secondary:hover,
 .btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  color: antiquewhite;
+  text-shadow: saddlebrown; /* Prevent inheritance from `body` */
 }
 
 
@@ -31,13 +33,13 @@ body {
  */
 
 .nav-masthead .nav-link {
-  color: rgba(255, 255, 255, .5);
+  color:saddlebrown;
   border-bottom: .25rem solid transparent;
 }
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: rgba(255, 255, 255, .25);
+  border-bottom-color: an;
 }
 
 .nav-masthead .nav-link + .nav-link {
@@ -101,5 +103,3 @@ body {
 
 
 
-
-      
